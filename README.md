@@ -20,7 +20,7 @@
 # GitHub Stats
 # 📊 GitHub Stats (All in One Place)
 
-<div align="center"> <img src="https://streak-stats.demolab.com?user=Abhinav-alt-hub&theme=tokyonight&hide_border=true" width="500"/> <img src="https://github-readme-stats.vercel.app/api?username=Abhinav-alt-hub&show_icons=true&theme=tokyonight&hide_border=true" width="500"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-alt-hub&layout=compact&theme=tokyonight&hide_border=true" width="400"/> </div>
+<div align="center"> <img src="https://streak-stats.demolab.com?user=princechaudhary07&theme=tokyonight&hide_border=true" width="500"/> <img src="https://github-readme-stats.vercel.app/api?username=princechaudhary07&show_icons=true&theme=tokyonight&hide_border=true" width="500"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princechaudhary07&layout=compact&theme=tokyonight&hide_border=true" width="400"/> </div>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=princechaudhary07&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
