@@ -30,7 +30,7 @@
 <h4> Leetcode - https://leetcode.com/princechaudhary07</h4>
 <h4> HackerRank - https://hackerrank.com/princechaudhar21</h4>
 <h4> Codechef - https://codechef.com/prince_ch12</h4>
-## 🎮 Fun Section  
+
 
 <div align="center">
 
