@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .grid{
+            display: grid;
+            grid-template-rows: repeat(8,90px);
+            grid-template-columns: repeat(8,90px);
+
+        }
+        .square:nth-child(odd) {
+  background: #f0d9b5; 
+}
+.square-rev:nth-child(even) {
+  background: #f0d9b5; 
+}
+
+.square:nth-child(even) {
+  background: #b58863; 
+}
+.square-rev:nth-child(odd) {
+  background: #b58863; 
+}
+
+
+        
+    </style>
+</head>
+<body>
+    <div class="grid">
+      
+        
+    </div>
+
+  <script>
+    // select the single .grid element (getElementsByClassName returns a collection)
+    const grid = document.querySelector(".grid");
+
+    const firstRow = `<div class="square"></div>`.repeat(8);
+    const secondRow = `<div class="square-rev"></div>`.repeat(8);
+
+    // each pair of rows (firstRow + secondRow) repeated 4 times gives 8 rows total
+    const completeRow = (firstRow + secondRow).repeat(4);
+
+    grid.innerHTML = completeRow;
+  </script>
+</body>
+</html>

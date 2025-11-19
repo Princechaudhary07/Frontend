@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .body{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            gap: 20px;
+            height: 100vh;
+        }
+        div{
+
+            height: 200px;
+            width: 100px;
+            background-color: gray;
+            border-radius: 8px;
+        }
+
+        .big-box{
+            height: 600px;
+            width: 300px;
+           
+            border-radius: 8px;
+        }
+    </style>
+</head>
+<body>
+    
+    <script>
+        const body = document.querySelector("body");
+        const box = document.createElement("div");
+        const btn = document.createElement("button");
+        btn.textContent = "Click Me!";
+
+        // body.style.display = "flex"
+        // body.style.alignItems = "center"
+        // body.style.justifyContent = "center"
+        // body.style.flexDirection = "column"
+        // body.style.gap = "20px"
+        // body.style.height="100vh"
+
+        
+        // box.style.height = "600px";
+        // box.style.width = "300px";
+        // box.style.backgroundColor = "grey"
+        // box.style.borderRadius = "8px"
+
+        body.appendChild(box);
+        body.appendChild(btn);
+        box.classList.add("mini-box");
+        body.classList.add("body")
+
+        btn.addEventListener("click",()=>{
+            box.classList.toggle("big-box");
+            
+        })
+
+        
+
+
+    </script>
+</body>
+
+</html>
