@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .container {
+            position: relative;
+            width: 100%;
+            height: 100vh;
+
+        }
+
+        .abc {
+            position: absolute;
+            width: 100px;
+            height: 100px;
+            background-color: red;
+            border-radius: 50%;
+            display:  flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 1;
+           
+            animation: move  5s ease-in-out infinite,
+             rotate 1s linear infinite;
+
+        }
+        .inner1{
+            height: 100%;
+            width: 5px;
+            background-color: black;
+            z-index: 0;
+           
+        }
+       
+
+        @keyframes move {
+            0% {
+                top: 0;
+                left: 0;
+                
+            }
+            25% {
+                top: 0;
+                left: calc(100% - 100px);
+            }
+            50% {
+                top: calc(100% - 100px);
+                left: calc(100% - 100px);
+            }
+            75% {
+                top: calc(100% - 100px);
+                left: 0;
+            }
+            100% {
+                top: 0;
+                left: 0;
+            }
+        }
+
+        @keyframes rotate {
+            from {
+                transform: rotate(0deg);
+            }
+            to {
+                transform: rotate(360deg);
+            }
+        }
+    </style>
+</head>
+
+<body style="background-color: black;">
+    <div class="container">
+        <div class="abc">
+            <div class="inner1"></div>
+           
+        </div>
+
+    </div>
+
+
+</body>
+
+</html>
