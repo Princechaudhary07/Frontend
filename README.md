@@ -9,7 +9,7 @@
 
 # About Me
 -  Student at [GLA University]
--  Skilled in C,Python, Java, SQL, HTML/CSS
+-  Skilled in C,Python, Java, SQL, HTML/CSS, Javascript
 
 
 # Goals
