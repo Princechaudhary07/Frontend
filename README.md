@@ -23,7 +23,7 @@
 <div align="center"> <img src="https://streak-stats.demolab.com?user=Abhinav-alt-hub&theme=tokyonight&hide_border=true" width="500"/> <img src="https://github-readme-stats.vercel.app/api?username=Abhinav-alt-hub&show_icons=true&theme=tokyonight&hide_border=true" width="500"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-alt-hub&layout=compact&theme=tokyonight&hide_border=true" width="400"/> </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhinav-alt-hub&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=princechaudhary07&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 <p align="center">
@@ -35,9 +35,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=550&lines=🔥+Thanks+For+Visiting+My+Terminal+🔥;Keep+Training,+Your+Power+Level+Is+Rising!;Your+Story+Is+Just+Getting+Started...">
 </h3>
 
-<p align="center">
-  <img src="https://i.giphy.com/media/3o85xoi6nNqJQJ95Qc/giphy.webp" width="260">
-</p>
+
 
 <p align="center">
 
