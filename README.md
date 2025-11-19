@@ -30,3 +30,19 @@
 <h4> Leetcode - https://leetcode.com/princechaudhary07</h4>
 <h4> HackerRank - https://hackerrank.com/princechaudhar21</h4>
 <h4> Codechef - https://codechef.com/prince_ch12</h4>
+## 🎮 Fun Section  
+
+<div align="center">
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pawankumar1099/pawankumar1099/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pawankumar1099/pawankumar1099/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pawankumar1099/pawankumar1099/output/pacman-contribution-graph.svg">
+</picture>
+
+</div>
+
+---
+
+✨ _Thanks for stopping by! If you liked my profile, don’t forget to ⭐ my repos._ ✨
